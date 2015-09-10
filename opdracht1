@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+    <title>Opdracht 2</title>
+</head>
+<body>
+    <h1>Aanmelden</h1>
+<p>Bent u geïnteresseerd in samenwerken met CMD Amsterdam? Dat kan!
+Tijdens de opleiding werken studenten aan projecten voor echte opdrachtgevers. Ook
+    lopen de studenten stage, in het tweede en afstudeerjaar.
+<br>
+<br>
+<i>CMD Amsterdam zoekt altijd naar positieve verbindingen met de creatieve stad
+Amsterdam.</i>
+<br>
+<br>
+Voor het aanmelden van stageplekken of projecten kunt u onderstaand formulier invullen.
+Wij nemen zo nodig contact met u op nadat het formulier is verstuurd.
+    Voor vragen of opmerkingen kunt u <a href="#">contact</a> met ons op.</p>
+
+<form>Contactgegevens:<br>
+Naam:     <input type>naam<br>
+Bedrijf:  <input type>bedrijf<br>
+Adres:    <input type>adres<br>
+Postcode: <input type>postcode<br>
+Plaats:   <input type>plaats<br>
+Telefoon: <input type>telefoon<br>
+Email:    <input type>email<br>
+</form>
+<br>
+<br>
+<form>Ik wil mijn aanmelden:<br>
+<input type="radio" name="keuze" value="voor een project">Voor een project<br>
+<input type="radio" name="keuze" value="als stage bedrijf">Als stagebedrijf
+</form>
+
+<ol><h2>Project</h2>
+<li>Titel</li>
+<li>Opdracht omschrijving</li>
+<li>Doelgroep omschrijving</li>
+<li>Doelstelling/ intentie van het project</li>
+<li>Looptijd</li>
+<li>Deadline</li>
+</ol>
+<br>
+<br>
+<ol>Geschikt voor
+<li>Eerstejaars studenten</li>
+<li>Tweedejaars studenten</li>
+<li>Derdejaars studenten</li>
+<li>Afstudeer studenten</li>
+<li>Onbekend</li>
+</ol>
+<br>
+<br>
+<ol><h2>Stage</h2>
+<p>geschikt voor</p>
+<li>Tweedejaars studenten</li>
+<li>Afstudeer studenten</li>
+<li>Onbekend</li>
+    </ol>
+<ol>
+<li>Hoelang is de stage?</li>
+<p>- 10 weken <br>- 20 weken</p>
+<li>begin datum</li>
+</ol>
+
+<ol>
+    <p>Beschrijving werkzaamheden:</p>
+    <li>Beschrijving stagewerkzaamheden</li>
+</ol>
+
+</body>
+</html>
